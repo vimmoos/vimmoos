@@ -12,7 +12,7 @@
   Let's create something amazing together!</p>
 
 <div id="badges">
-  <a href="" target="_blank">
+  <a href="https://vimmoos.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-666666?style=for-the-badge&logo=internetarchive&logoColor=white" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.linkedin.com/in/massimiliano-falzari/">
